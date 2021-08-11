@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Who am I?
+Sumanth Doddapaneni. I'm another curious soul wandering and trying to find my place in the research space
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### What do I do?
+I work as a Research Fellow at [Robert Bosch Centre for Data Science and AI](http://rbcdsai.iitm.ac.in), IIT Madras
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### My Work
+- [A Primer on Pretrained Multilingual Language Models](https://arxiv.org/abs/2107.00676)
+- [Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages](https://arxiv.org/abs/2104.05596)
+- [Bitions@ DravidianLangTech-EACL2021: Ensemble of Multilingual Language Models with Pseudo Labeling for offence Detection in Dravidian Languages](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.42/)
 
 
-[jekyll-organization]: https://github.com/jekyll
+### Get in touch
+[Github](https://github.com/sumanthd17), [LinkedIn](https://www.linkedin.com/in/sumanth-doddapaneni-25494b130/)
